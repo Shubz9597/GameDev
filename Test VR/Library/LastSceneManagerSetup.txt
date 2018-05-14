@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Main.unity
+- path: D:/Game Development/GameDev/Whack A Mole/Assets/Gameplay.unity
   isLoaded: 1
   isActive: 1
